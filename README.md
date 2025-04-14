@@ -47,6 +47,11 @@ I'm a graduate student in Engineering Management at George Washington University
 - 🌟 Positive feedback for systems architecture and climate adaptation research.
 
 ---
+![Dhanyasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanyasri135&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri135&layout=compact&theme=radical)
+
+
+---
 
 ### 📬 Contact  
 📧 Email: dhanyasribolla@gmail.com  
