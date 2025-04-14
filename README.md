@@ -46,10 +46,6 @@ I'm a graduate student in Engineering Management at George Washington University
 - 📊 Delivered presentation at AGU 2024 on Urban Giants under Threat: Unveiling Climate Vulnerabilities and Adaptive Strategies in Megacities .
 - 🌟 Positive feedback for systems architecture and climate adaptation research.
 
----
-![Dhanyasri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhanyasri135&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri135&layout=compact&theme=radical)
-
 
 ---
 
