@@ -1,24 +1,56 @@
-## 👋 Hey there, I'm Dhanyasri Bolla
-🎓 Graduate Student in Engineering Management @ George Washington University
-📍 Based in Washington, D.C. | Originally from India 🌏
-🔬 Currently working on research around climate adaptation in megacities — mapping global patterns, identifying co-benefits, and using data to support sustainable urban planning
-📈 Interests: Data-Driven Decision Making | Systems Architecture | Climate Policy | Tech for Sustainability
+👋 Hey, I'm Dhanyasri Bolla! 🌱
 
-🧰 Tech Toolbox
-Languages: Python, R, SQL, JavaScript, HTML/CSS
-Tools & Skills: Pandas, NumPy, Excel VBA, Power BI, Tableau, Git/GitHub
-Methods: Statistical Analysis, Visualization, Regression Modeling, Chi-Square Tests, Cramer's V
+---
 
+### 🎓 About Me  
+I'm a graduate student in Engineering Management at George Washington University, passionate about using data and systems thinking to drive sustainable and resilient solutions — especially in the context of climate adaptation and urban infrastructure. I blend engineering, research, and analytics to understand how megacities are preparing for climate risks and turning challenges into opportunities.
 
-💡 What I’ve Been Up To
-🔍 Analyzing 48+ megacity climate plans for adaptation strategy patterns
-📊 Visualizing climate risk, stakeholder involvement, and financial support across regions
-🚗 Designing system architecture for intelligent vehicle safety features
-🌱 Coding climate-related co-benefits like improved health, food security, and biodiversity
+- 📌 Focus Areas  
+- 📊 Climate Data Analysis, Infrastructure Planning, and Urban Resilience  
+- 🏙️ Working on megacity adaptation strategy analysis using statistical methods  
+- 🧠 Exploring co-benefits like improved health, biodiversity, and food security  
+- 🌍 Advocating for evidence-based sustainability planning and equity in urban policy  
+- 📈 Developing methods for mapping climate risks to actions and stakeholders  
 
+---
 
-🤝 Let’s Collaborate
-I'm always open to collaborating on projects involving climate data, analytics, sustainable tech, or urban systems. If you’re working on something cool, let’s chat!
+### 🧰 Toolbox  
+**Programming Languages:**  
+`Python` | `R` | `SQL` | `JavaScript` | `HTML/CSS`  
 
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dhanyasribolla/)
-🌐 Here's my [Portfolio](https://dhanyasri135.github.io/dhanyasri-portfolio/)!
+**Tools & Libraries:**  
+`Pandas` | `NumPy` | `Power BI` | `Tableau` | `Excel` | `Git` | `Jupyter` | `VS Code`  
+
+**Data & Methods:**  
+`Regression Modeling` | `Chi-square Tests` | `Cramer's V` | `Data Visualization` | `Survey Analysis`  
+
+---
+
+💼 Professional Experience 
+- Graduate Research Assistant @ FEWSLab, George Washington University  
+  → Conducting statistical analysis and binary coding of climate adaptation plans from 48+ megacities to uncover cross-sectoral patterns in infrastructure, risks, finance, and stakeholders. Leveraging Python, R, and Excel for data processing, visualization, and interpretation. Co-authoring a research paper highlighting emergent themes and co-benefits in global urban resilience planning.
+- Web Development Intern @ Business Web Solutions  
+  → Built and maintained websites for Kerala Tourism (HTML/CSS/JS + backend support)  
+- Marketing & Operations Intern @ Unschool  
+  → Led a team of 6, supported campaign analytics and user acquisition  
+- Finance Coordinator @ SVNIT Annual Fest (Sparsh-2023)  
+  → Managed event budgeting and sponsor coordination  
+- VP @ GW Desis (Graduate Indian Society)  
+  → Organizing cultural events, handling budgets, and recruiting new members  
+
+---
+
+### 🏆 Achievements  
+- 🏙️ Analyzed 48+ megacity climate action plans for cross-category patterns.
+- 🌿 Mapped co-benefits across sectors, stakeholders, and regions for about 430+ articles from the GAMI database.
+- 📊 Delivered presentation at AGU 2024 on Urban Giants under Threat: Unveiling Climate Vulnerabilities and Adaptive Strategies in Megacities .
+- 🌟 Positive feedback for systems architecture and climate adaptation research.
+
+---
+
+### 📬 Contact  
+📧 Email: dhanyasribolla@gmail.com  
+🔗 LinkedIn: [linkedin.com/in/dhanyasribolla](https://www.linkedin.com/in/dhanyasribolla)  
+🌐 Portfolio: [dhanyasri135.github.io/dhanyasri-portfolio](https://dhanyasri135.github.io/dhanyasri-portfolio)  
+📍 Washington, D.C., USA  
+
