@@ -21,4 +21,4 @@ Methods: Statistical Analysis, Visualization, Regression Modeling, Chi-Square Te
 I'm always open to collaborating on projects involving climate data, analytics, sustainable tech, or urban systems. If you’re working on something cool, let’s chat!
 
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/dhanyasribolla/)
-🌐 Here's my [Portfolio]((https://dhanyasri135.github.io/dhanyasri-portfolio/))!
+🌐 Here's my [Portfolio](https://dhanyasri135.github.io/dhanyasri-portfolio/)!
