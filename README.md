@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Dhanyasri Bolla! 🌱  
-**Graduate Researcher | Data Analyst | Urban Systems Thinker**
+**Graduate Researcher | Data Analyst | Urban Systems Thinker | Systems Engineer**
 
 ---
 
@@ -16,12 +16,12 @@ I bring a mix of **technical expertise**, **research depth**, and a strong found
   → Built a quantitative framework to analyze 48 global megacity adaptation plans  
   → Used `Python`, `R`, and `Excel` to run chi-square tests, Cramer's V, and regression models  
   → Coded 430+ co-benefits from the GAMI database, uncovering patterns across health, economy, and biodiversity  
-  → Leveraged LLM-based NLP techniques for policy document gap analysis  
+  → Leveraged LLM-based NLP techniques for policy document gap analysis
+  → Presented findings at AGU 2024: *Urban Giants under Threat*
 
 - 📊 **GAMI Global Climate Co-Benefit Map**  
   → Visualized relationships between climate actions, sectors, and regional strategies  
   → Automated analysis pipeline with `Pandas`, `matplotlib`, and `Seaborn`  
-  → Presented findings at AGU 2024: *Urban Giants under Threat*
 
 - 🌐 **Web Development for Kerala Tourism (Internship)**  
   → Built responsive UIs with `HTML`, `CSS`, `JavaScript`  
