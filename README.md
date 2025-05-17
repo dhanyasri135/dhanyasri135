@@ -6,7 +6,7 @@
 ### 📌 About Me  
 I'm a Master’s student in **Engineering Management at George Washington University**, blending data science, systems engineering, and climate policy to tackle complex urban challenges. My work focuses on the **intersection of analytics and sustainability**, using real-world data to model infrastructure resilience, climate adaptation, and stakeholder dynamics in megacities.
 
-I bring a mix of **technical expertise**, **research depth**, and a strong foundation in **project management** to solve pressing environmental and operational problems.
+I bring a mix of **technical expertise**, **research depth**, and a strong foundation in **Engineering management** to solve pressing environmental and operational problems.
 
 ---
 
