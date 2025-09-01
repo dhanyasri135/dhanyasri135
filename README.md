@@ -38,6 +38,17 @@ My journey bridges **technical expertise (Python, R, SQL, Spark)** with **resear
   - Secure transactions with risk assessment and robust error handling
     → Designed responsive UI, ensured real-time updates, and implemented dual data architecture with API + localStorage fallback
 
+- 🌍 Climate Adaptation Memory Engine
+  → Built a Retrieval-Augmented Generation (RAG) system to query and analyze adaptation strategies from 45 global cities
+  → Database: 13,836+ processed text chunks from city climate adaptation plans
+  → Features:
+    - Semantic similarity search with metadata-based filtering
+    - Interactive Streamlit web app with intuitive filters
+    - RESTful API for external integrations
+    - Automatic safeguards preventing duplicate data ingestion
+  → Coverage: Global cities across Americas, Europe, Asia, Africa, and Australia (e.g., New York, São Paulo, London, Delhi, Lagos, Sydney)
+  → Designed for policy analysts, researchers, and urban planners to explore resilience strategies and compare adaptation measures efficiently
+
 - 🌐 **Web Development for Kerala Tourism (Internship)**  
   → Built responsive UIs with `HTML`, `CSS`, `JavaScript`  
   → Enhanced performance via API optimization and browser compatibility testing  
