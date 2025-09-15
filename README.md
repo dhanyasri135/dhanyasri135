@@ -38,7 +38,7 @@ My journey bridges **technical expertise (Python, R, SQL, Spark)** with **resear
   - Secure transactions with risk assessment and robust error handling
     → Designed responsive UI, ensured real-time updates, and implemented dual data architecture with API + localStorage fallback
 
-- 🌍 Climate Adaptation Memory Engine
+- 🌍 **Climate Adaptation Memory Engine**
   → Built a Retrieval-Augmented Generation (RAG) system to query and analyze adaptation strategies from 45 global cities
   → Database: 13,836+ processed text chunks from city climate adaptation plans
   → Features:
