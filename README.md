@@ -1,110 +1,122 @@
-# 👋 Hi, I'm Dhanyasri Bolla! 🌱  
-**Graduate Research Assistant (GWU FEWS Lab) | Data Analytics & Policy Research | Urban Resilience & Sustainability**
+👋 Hi, I’m Dhanyasri Bolla 🌍
 
----
+Graduate Research Assistant (GWU FEWS Lab) | Climate Adaptation & Decision Intelligence | Data Analytics & Policy Research
 
-## 📌 About Me  
-I’m a Master’s student in **Engineering Management at The George Washington University (Dec 2025)** and a **Graduate Research Assistant at FEWS Labs (GWU)**. I work at the intersection of **climate adaptation, data analytics, and applied policy research**—building frameworks and tools that turn complex evidence into **decision-ready insights** for resilient cities and systems.
+<p align="center"> <img src="https://img.shields.io/badge/Focus-Climate%20Adaptation%20%26%20Decision%20Intelligence-2ea44f" /> <img src="https://img.shields.io/badge/Research-Urban%20Resilience%20%26%20Policy-blue" /> <img src="https://img.shields.io/badge/Tools-Python%20%7C%20R%20%7C%20SQL%20%7C%20SysML-orange" /> </p>
+🔎 About Me
 
-My strengths blend **technical skills (Python, R, SQL, Spark)** with **research depth (mixed-methods analysis, policy coding, statistical modeling)** and **systems thinking (SysML, Capella, decision modeling)**. I enjoy designing workflows and dashboards that make research usable for stakeholders.
+I’m a Master’s student in Engineering Management at The George Washington University (Dec 2025) and a Graduate Research Assistant at the FEWS Lab (GWU). I work at the intersection of climate adaptation, data analytics, and applied policy research, building systems that transform complex evidence into decision-ready insights for resilient cities.
 
----
+I combine:
 
-## 🔬 Research & Projects (Selected)
+Quantitative analytics (Python, R, SQL, Spark)
 
-- 🏙️ **Climate Adaptation in Megacities (GWU FEWS Lab)**  
-  → Built a quantitative framework to analyze **43** global megacity climate action/adaptation plans  
-  → Applied **chi-square**, **Cramer’s V**, and **regression** using `Python` + `Excel`  
-  → Used **LLM-based textual analysis** to extract patterns and planning gaps  
-  → Presented findings at **AGU 2024**: *Urban Giants Under Threat*
+Mixed-methods research (policy coding, interviews, statistical testing)
 
-- 🌿 **Global Adaptation Co-Benefits Mapping (GAMI)**  
-  → Coded and categorized **430+** articles to map adaptation co-benefits (health, economy, biodiversity)  
-  → Built repeatable coding + QA workflows for comparative analysis
+Systems & decision modeling (SysML, Capella, trade-off analysis)
 
-- 🔎 **Web of Science Research Landscape Mapping**  
-  → Automated publication extraction/cleaning (80+ records) and built visual summaries (treemaps, frequency charts)  
-  → Highlighted cross-disciplinary trends supporting urban adaptation research
+🧠 What I Work On (Visual Map)
+graph TD
+    A[Climate Adaptation Data] --> B[RAG & NLP Pipelines]
+    A --> C[Statistical Analysis]
+    B --> D[Decision Intelligence Engines]
+    C --> D
+    D --> E[Policy & Planning Insights]
+    D --> F[Dashboards & Tools]
+    E --> G[Urban Resilience & Sustainability]
 
-- 🧩 **Tracking Systemic Impacts of U.S. Foreign Aid Policy (Qualitative Codebook)**  
-  → Conducted inductive analysis of **18 expert interviews**  
-  → Built a **14-category codebook with 40+ sub-codes** for longitudinal tracking and synthesis
+🔬 Selected Research & Projects
+🏙️ Climate Adaptation in Megacities — GWU FEWS Lab
+flowchart LR
+    P[City Adaptation Plans] --> Q[Quantitative Analysis]
+    P --> R[LLM Text Analysis]
+    Q --> S[Statistical Patterns]
+    R --> S
+    S --> T[Planning Gaps & Insights]
 
-- 🌾 **What Our Region Grows 3.0 (USDA CoA + FAF Flows)**  
-  → Automated USDA Census of Agriculture analysis (**2012 / 2017 / 2022**)  
-  → Built CPI-normalized dashboards and analyzed inbound food-supplier flows using FAF SCTG
 
-- ⚡ **San Diego Renewable Energy Transition Model (Capstone)**  
-  → Modeled transition to **60% renewables by 2034** using CAISO data (2018–2025)  
-  → Projected **~$1.56M annual savings** and **27,000+ metric tons CO₂/year reduction**
+Analyzed 43 global megacity adaptation plans
 
-- 💡 **SwapStack – AI Fintech Hackathon 2025 (Cerebral Valley, NYC)**  
-  → Built an AI-driven P2P lending concept with electronics as collateral  
-  → Designed backend + database schema and developed API endpoints  
-  → Focus: asset valuation + marketplace workflows + risk checks
+Applied chi-square, Cramer’s V, regression
 
-- 🌍 **Climate Adaptation Memory Engine (RAG)**  
-  → Built a RAG system over city adaptation plans with semantic search + metadata filtering  
-  → Streamlit app + API for comparing resilience strategies across cities  
-  → Designed safeguards to prevent duplicate ingestion and support iterative updates
+Presented at AGU 2024 – Urban Giants Under Threat
 
-- 🌐 **Kerala Tourism Website (Web Development Internship)**  
-  → Built responsive UI components with `HTML`, `CSS`, `JavaScript`  
-  → Improved performance via API optimization and cross-browser testing  
+🌍 Climate Adaptation Memory Engine (RAG)
+flowchart LR
+    A[PDF Plans] --> B[Chunking & Metadata]
+    B --> C[Vector Store]
+    C --> D[Semantic Search]
+    D --> E[City-to-City Comparison]
 
-- 📈 **Marketing Analytics & Operations (Unschool)**  
-  → Led campaign analytics and workflow improvements  
-  → Reported impact: **+45% enrollments**, **+20% lead conversion**
 
----
+RAG system over 45 global city adaptation plans
 
-## 🧰 Tech Toolbox  
+Semantic search + metadata filtering
 
-**Programming:**  
-`Python` | `R` | `SQL` | `JavaScript` | `HTML/CSS` | `C` | `PHP (basic)` | `Spark (PySpark)`
+Streamlit app + API
 
-**Data & Visualization:**  
-`Pandas` | `NumPy` | `matplotlib` | `Seaborn` | `Tidyverse` | `Excel` | `Streamlit` | `Power BI` | `Tableau` | `Shiny` | `Quarto`
+Duplicate-ingestion safeguards
 
-**Research & Methods:**  
-Chi-Square | Cramer’s V | Regression | Hypothesis Testing | Thematic Coding | Comparative Policy Analysis | Survey Analysis
+🧠 Climate Adaptation Decision Intelligence Engine (In Progress)
+flowchart TD
+    U[User Inputs<br/>City • Hazard • Budget • Governance] --> R[Relevant Strategies]
+    R --> S[Multi-Criteria Scoring]
+    S --> J[Ranked Recommendations]
+    J --> E[Evidence & Justification]
 
-**Systems & Decision Modeling:**  
-`SysML` | `Arcadia Capella` | Systems Thinking | Trade-off Analysis | NPV/IRR | Sensitivity & Risk Analysis
 
-**Tools:**  
-`Git/GitHub` | `Jupyter` | `VS Code` | `ETL Pipelines` | `Netlify` | `Flask` | `SQLite` | `Formspree`
+Scores and recommends adaptation strategies
 
-**Strengths:**  
-Analytical Rigor | Scientific Writing | Stakeholder-Oriented Communication | Leadership | Event Planning
+Uses MCDA + RAG
 
----
+Outputs ranked actions with explanations
 
-## 🎓 Education  
-**The George Washington University** — *MS in Engineering Management (Dec 2025)*  
-Courses: Marketing Analytics, R Programming, Systems Engineering, Project Management, Corporate Finance, Policy Modelling
+🌿 Global Adaptation Co-Benefits Mapping — GAMI
 
-**SVNIT, India** — *B.Tech in Electronics & Communication (May 2023)*  
+Coded 430+ peer-reviewed studies
 
----
+Mapped health, economic, biodiversity co-benefits
 
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanyasri135&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri135&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhanyasri135&theme=tokyonight" alt="GitHub streak" height="160"/>
-</p>
+Built QA-controlled comparative workflows
 
----
+⚡ San Diego Renewable Energy Transition Model
+graph LR
+    D[CAISO Data] --> M[Energy Modeling]
+    M --> E[Emissions Reduction]
+    M --> C[Cost Savings]
 
-## 🌐 Let’s Connect  
-📧 dhanyasribolla@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhanyasribolla)  
-🌍 [Portfolio](https://dhanyasri135.github.io/dhanyasri-portfolio)  
-📍 Washington, D.C., USA  
 
----
+Modeled 60% renewables by 2034
 
-✨ _Always open to collaborations in climate-tech, applied AI, data-driven policy, and sustainable system design._
+~$1.56M annual savings
+
+27,000+ metric tons CO₂ reduction
+
+💡 SwapStack — AI Fintech Hackathon 2025
+flowchart LR
+    A[Borrower Assets] --> B[AI Valuation]
+    B --> C[P2P Marketplace]
+    C --> D[Loans & Investments]
+
+
+AI-driven P2P lending with electronics as collateral
+
+Backend, DB schema, API design
+
+Risk & valuation logic
+
+🛠️ Technical Toolkit (Visual)
+<p align="center"> <img src="https://img.shields.io/badge/Python-Data%20%26%20AI-blue" /> <img src="https://img.shields.io/badge/R-Statistics%20%26%20Viz-276DC3" /> <img src="https://img.shields.io/badge/SysML-Systems%20Engineering-critical" /> <img src="https://img.shields.io/badge/LLMs-RAG%20%26%20Policy%20Analysis-yellow" /> <img src="https://img.shields.io/badge/Streamlit-Dashboards-red" /> </p>
+📊 GitHub Activity
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dhanyasri135&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanyasri135&layout=compact&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=dhanyasri135&theme=tokyonight" height="160"/> </p>
+🌐 Connect
+
+📧 dhanyasribolla@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/dhanyasribolla
+
+🌍 Portfolio: https://dhanyasri135.github.io/dhanyasri-portfolio
+
+📍 Washington, D.C., USA
+
+✨ Open to collaborations in climate-tech, applied AI, decision intelligence, and data-driven policy research.
