@@ -18,6 +18,12 @@ My strengths blend **technical skills (Python, R, SQL, Spark)** with **research 
   → Used **LLM-based textual analysis** to extract patterns and planning gaps  
   → Presented findings at **AGU 2024**: *Urban Giants Under Threat*
 
+- Metadata-Driven Energy & Climate Data Lakehouse (AWS)
+  → Architecture: Designed a serverless ingestion framework using `AWS Glue` (Python Shell) and `DynamoDB` to dynamically fetch data from disparate sources (XML/JSON APIs) without hard-coding logic.
+  → Ingestion Engine: Built a resilient Python pipeline handling legacy API constraints (CAISO), implementing dynamic date parameter injection and automated SSL certificate handling for strict utility gateways.
+  → Complex Transformation: Engineered a custom "Brute Force" XML parser in Python to resolve schema drift and namespace conflicts in energy data, normalizing it alongside nested weather JSON into a unified Silver Layer (Parquet).
+  → Analytics & Insights: Leveraged `AWS Athena` (SQL) to perform cross-domain analysis, using ISO 8601 timestamp parsing to correlate solar radiation spikes with real-time grid load fluctuations.
+  
 - 🌿 **Global Adaptation Co-Benefits Mapping (GAMI)**  
   → Coded and categorized **430+** articles to map adaptation co-benefits (health, economy, biodiversity)  
   → Built repeatable coding + QA workflows for comparative analysis
