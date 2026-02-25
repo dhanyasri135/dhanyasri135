@@ -24,6 +24,10 @@ My strengths blend **heavy technical skills (AWS, Python, SQL, PySpark)** with *
   → Ingestion Engine: Built a resilient Python pipeline handling legacy API constraints (CAISO), implementing dynamic date parameter injection and automated SSL certificate handling for strict utility gateways.  
   → Complex Transformation: Engineered a custom "Brute Force" XML parser in Python to resolve schema drift and namespace conflicts in energy data, normalizing it alongside nested weather JSON into a unified Silver Layer (Parquet).  
   → Analytics & Insights: Leveraged `AWS Athena` (SQL) to perform cross-domain analysis, using ISO 8601 timestamp parsing to correlate solar radiation spikes with real-time grid load fluctuations.
+  
+- 👁️ **Project ANDRA: Multimodal AI Threat Detection Agent (Hoya Hacks 2026)** → Tech Stack: Python, YOLOv8, OpenCV, Google Gemini 2.0 Flash API, Twilio API, PyTTSx3  
+  → Architecture: Prototyped a localized edge-compute pipeline that ingests real-time video and audio streams to perform continuous spatial threat assessment.  
+  → Logic: Orchestrated an asynchronous event loop combining object detection (bounding box proximity calculations) with multimodal LLM reasoning. Implemented a "dead man's switch" utilizing audio-silence detection to trigger automated emergency dispatch via the Twilio REST API.
 
 - 🌍 **Climate Adaptation Memory Engine (RAG)** → Built a RAG system over city adaptation plans with semantic search + metadata filtering.  
   → `Streamlit` app + API for comparing resilience strategies across cities.  
@@ -47,9 +51,9 @@ My strengths blend **heavy technical skills (AWS, Python, SQL, PySpark)** with *
 
 **Programming:** `Python` | `R` | `SQL` | `JavaScript` | `HTML/CSS` | `C` | `Spark (PySpark)` | `Python (Boto3)`
 
-**Cloud and Data Engineering:** `AWS (Lambda, EventBridge, SNS, Glue, Athena, DynamoDB, S3, IAM)` | `Serverless Architecture` | `Metadata-Driven ETL` | `Lakehouse Architecture` | `Parquet` | `REST APIs`
+**Cloud and Data Engineering:** `AWS (Lambda, EventBridge, SNS, Glue, Athena, DynamoDB, S3, IAM)` | `Serverless Architecture` | `Metadata-Driven ETL` | `Lakehouse Architecture` | `Parquet` | `REST APIs` | `Twilio API`
 
-**Data & Visualization:** `Pandas` | `NumPy` | `matplotlib` | `Seaborn` | `Tidyverse` | `Excel` | `Streamlit` | `Power BI` | `Tableau` | `Shiny` | `Quarto`
+**Data & Visualization:** `Pandas` | `NumPy` | `matplotlib` | `Seaborn` | `Tidyverse` | `Excel` | `Streamlit` | `Power BI` | `Tableau` | `Shiny` | `Quarto` | `OpenCV` | `YOLOv8`
 
 **Quantitative & Research Methods:** Monte Carlo Simulation | Value at Risk (VaR) | Stochastic Modeling | Chi-Square | Cramer’s V | Regression 
 
